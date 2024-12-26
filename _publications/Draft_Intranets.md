@@ -7,7 +7,7 @@ excerpt: ''
 date: 2023-12-26
 venue: 'Working paper'
 slidesurl: 
-paperurl: 'http://academicpages.github.io/files/Paper_Intranets_20241226.pdf'
+paperurl: 'https://github.com/GuilleUriz/guillermouriz/tree/master/files/Paper_Intranets_20241226.pdf'
 
 ---
 
