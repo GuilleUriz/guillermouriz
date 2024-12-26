@@ -3,8 +3,8 @@ title: "The Value of Firm Communication for Innovation: Evidence from the Adopti
 collection: publications
 category: workingpapers
 permalink: /publication/Draft_Intranets
-excerpt: 'aaa'
-date: 2023-12-12
+excerpt: ''
+date: 2023-10-12
 venue: Working paper
 slidesurl: 
 paperurl: 'http://academicpages.github.io/files/Paper_Intranets_20241226.pdf'
