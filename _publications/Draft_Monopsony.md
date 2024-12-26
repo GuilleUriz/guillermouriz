@@ -4,7 +4,7 @@ collection: publications
 category: workingpapers
 permalink: /publication/Draft_Monopsony
 excerpt: 
-date: 2024-12-26
+date: 
 venue: 
 slidesurl: 
 paperurl: 'http://academicpages.github.io/files/Draft_Asier_Guille_20241225.pdf'
