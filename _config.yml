@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Guillermo Uriz-Uharte"
+title                    : "Guillermo's Homepage"
 title_separator          : "-"
 name                     : &name "Guillermo Uriz-Uharte"
 description              : &description "personal description"
