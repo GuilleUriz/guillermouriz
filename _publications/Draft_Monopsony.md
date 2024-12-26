@@ -3,7 +3,7 @@ title: "Firm Market Power in Intermediate Input and Labor Markets"
 collection: publications
 category: workingpapers
 permalink: /publication/Draft_Monopsony
-excerpt: 
+excerpt: ''
 date: 2024-12-26
 venue: 
 slidesurl: 
