@@ -4,7 +4,7 @@ collection: publications
 category: workingpapers
 permalink: /publication/Draft_Intranets
 excerpt: ''
-date: 2023-12-26
+date: 2023-12-14
 venue: 'Working paper'
 slidesurl: 
 paperurl: 'https://github.com/GuilleUriz/guillermouriz/raw/master/files/Paper_Intranets_20241226.pdf'
