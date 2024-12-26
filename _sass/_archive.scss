@@ -10,7 +10,7 @@
   }
 
   @include breakpoint($large) {
-    @include span(12 of 12 last); // Changed from 10 to 12 to make lines longer
+    @include span(10 of 12 last);
     @include prefix(0.5 of 12);
   }
 
@@ -91,15 +91,15 @@
 
 .list__item {
   @include breakpoint($medium) {
-    padding-right: $right-sidebar-width-narrow / 2; // Reduced padding
+    padding-right: $right-sidebar-width-narrow;
   }
 
   @include breakpoint($large) {
-    padding-right: $right-sidebar-width / 2; // Reduced padding
+    padding-right: $right-sidebar-width;
   }
 
   @include breakpoint($x-large) {
-    padding-right: $right-sidebar-width-wide / 2; // Reduced padding
+    padding-right: $right-sidebar-width-wide;
   }
 
   .page__meta {
@@ -129,7 +129,7 @@
   }
 
   @include breakpoint($small) {
-    @include gallery(6 of 12); // Changed from 5 of 10 to 6 of 12 to make lines longer
+    @include gallery(5 of 10);
     .archive__item-teaser {
       max-height: 200px;
     }
@@ -138,7 +138,7 @@
   @include breakpoint($medium) {
     margin-left: 0; /* reset before mixin does its thing*/
     margin-right: 0; /* reset before mixin does its thing*/
-    @include gallery(3 of 12); // Changed from 2.5 of 10 to 3 of 12 to make lines longer
+    @include gallery(2.5 of 10);
 
     .archive__item-teaser {
       max-height: 120px;
@@ -168,7 +168,7 @@
 
   @include breakpoint($small) {
     margin-bottom: 0;
-    @include gallery(5 of 12); // Changed from 4 of 12 to 5 of 12 to make lines longer
+    @include gallery(4 of 12);
 
     .feature__item-teaser {
       max-height: 200px;
@@ -186,11 +186,11 @@
 
     @include breakpoint($small) {
       .archive__item-teaser {
-        @include span(6 of 12); // Changed from 5 of 12 to 6 of 12 to make lines longer
+        @include span(5 of 12);
       }
 
       .archive__item-body {
-        @include span(6 of 12 last); // Changed from 7 of 12 to 6 of 12 to make lines longer
+        @include span(7 of 12 last);
         @include prefix(0.5 of 12);
         @include suffix(1 of 12);
       }
@@ -209,11 +209,11 @@
       text-align: right;
 
       .archive__item-teaser {
-        @include span(6 of 12 rtl); // Changed from 5 of 12 to 6 of 12 to make lines longer
+        @include span(5 of 12 rtl);
       }
 
       .archive__item-body {
-        @include span(6 of 12 last rtl); // Changed from 7 of 12 to 6 of 12 to make lines longer
+        @include span(7 of 12 last rtl);
         @include prefix(0.5 of 12);
         @include suffix(1 of 12);
       }
@@ -233,14 +233,13 @@
 
       .archive__item-teaser {
         margin: 0 auto;
-        width: span(6 of 12); // Changed from 5 of 12 to 6 of 12 to make lines longer
+        width: span(5 of 12);
       }
 
       .archive__item-body {
         margin: 0 auto;
-        width: span(6 of 12); // Changed from 7 of 12 to 6 of 12 to make lines longer
+        width: span(7 of 12);
       }
     }
   }
 }
-
