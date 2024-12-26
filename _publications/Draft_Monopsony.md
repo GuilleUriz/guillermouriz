@@ -7,7 +7,7 @@ excerpt: ''
 date: 2024-12-26
 venue: 'Working paper'
 slidesurl: 
-paperurl: 'http://academicpages.github.io/files/Draft_Asier_Guille_20241225.pdf'
+paperurl: 'https://github.com/GuilleUriz/guillermouriz/raw/master/files/Draft_Asier_Guille_20241225.pdf'
 
 ---
 
