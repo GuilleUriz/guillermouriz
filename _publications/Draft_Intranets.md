@@ -3,9 +3,9 @@ title: "The Value of Firm Communication for Innovation: Evidence from the Adopti
 collection: publications
 category: workingpapers
 permalink: /publication/Draft_Intranets
-excerpt: 
-date: 
-venue: 
+excerpt: 'aaa'
+date: 2023-12-12
+venue: Working paper
 slidesurl: 
 paperurl: 'http://academicpages.github.io/files/Paper_Intranets_20241226.pdf'
 citation: 'Uriz-Uharte, G. (2023). The Value of Firm Communication for Innovation: Evidence from the Adoption of Communication Technologies. Working Paper.'
