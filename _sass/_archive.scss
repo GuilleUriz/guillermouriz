@@ -10,7 +10,7 @@
   }
 
   @include breakpoint($large) {
-    @include span(10 of 12 last);
+    @include span(11 of 12 last); // Changed from 10 to 11 to make lines longer
     @include prefix(0.5 of 12);
   }
 
@@ -91,15 +91,15 @@
 
 .list__item {
   @include breakpoint($medium) {
-    padding-right: $right-sidebar-width-narrow;
+    padding-right: $right-sidebar-width-narrow / 2; // Reduced padding
   }
 
   @include breakpoint($large) {
-    padding-right: $right-sidebar-width;
+    padding-right: $right-sidebar-width / 2; // Reduced padding
   }
 
   @include breakpoint($x-large) {
-    padding-right: $right-sidebar-width-wide;
+    padding-right: $right-sidebar-width-wide / 2; // Reduced padding
   }
 
   .page__meta {
