@@ -5,7 +5,7 @@ category: workingpapers
 permalink: /publication/Draft_Intranets
 excerpt: ''
 date: 2023-12-26
-venue: 
+venue: 'Working paper'
 slidesurl: 
 paperurl: 'http://academicpages.github.io/files/Paper_Intranets_20241226.pdf'
 
