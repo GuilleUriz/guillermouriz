@@ -7,12 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I am an Applied Microeconomist, interested in the fields of Industrial Organization, Economics of Digitization, Environmental Economics, and Social Networks.
+I am an applied microeconomist with a particular interest in industrial organization, the economics of digitization, environmental economics, and social networks.
 
 I completed my PhD at [University College London]( https://www.ucl.ac.uk/economics/), under the supervision of Professors [Imran Rasul]( https://www.imranrasul.com/) and [Aureo de Paula]( https://www.ucl.ac.uk/~uctpand/).
 
-I am currently employed at Servicios de la Comarca de Pamplona S.A. as Head of Planning and Control, and at the Public University of Navarra as an Associate Professor.
-
+I am currently employed as Head of Planning and Control at Servicios de la Comarca de Pamplona S.A. and as an Associate Professor at the Public University of Navarra.
 
 
 
