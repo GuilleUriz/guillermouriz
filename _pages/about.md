@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an applied microeconomist with a particular interest in industrial organization, the economics of digitization, environmental economics, and social networks.
+I am an applied microeconomist with a particular interest in industrial organization, economics of digitization, environmental economics, and social networks.
 
 I completed my PhD at [University College London]( https://www.ucl.ac.uk/economics/), under the supervision of Professors [Imran Rasul]( https://www.imranrasul.com/) and [Aureo de Paula]( https://www.ucl.ac.uk/~uctpand/).
 
