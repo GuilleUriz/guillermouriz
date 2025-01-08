@@ -7,7 +7,7 @@ excerpt: ''
 date: 2024-12-26
 venue: 'Working paper'
 slidesurl: 
-paperurl: 'https://github.com/GuilleUriz/guillermouriz/raw/master/files/Draft_Upstream market power.pdf'
+paperurl: 'https://github.com/GuilleUriz/guillermouriz/raw/master/files/Draft_Monopsony.pdf'
 
 ---
 
