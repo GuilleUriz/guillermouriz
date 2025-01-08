@@ -11,7 +11,7 @@ I am an applied microeconomist with a particular interest in industrial organiza
 
 I completed my PhD at [University College London]( https://www.ucl.ac.uk/economics/), under the supervision of Professors [Imran Rasul]( https://www.imranrasul.com/) and [Aureo de Paula]( https://www.ucl.ac.uk/~uctpand/).
 
-I am currently employed as Head of Planning and Control at Servicios de la Comarca de Pamplona S.A. and as an Associate Professor at the Public University of Navarra.
+I am currently employed as Head of Planning and Control at Servicios de la Comarca de Pamplona S.A. and as an Adjunct Professor at the Public University of Navarra.
 
 
 
